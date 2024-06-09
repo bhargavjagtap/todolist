@@ -13,7 +13,7 @@
 .NewTodoForm input {
   flex-grow: 1;
   border: none;
-  background: #f7f1f1;
+  background: #f7f1f1c4;
   padding: 0 1.5em;
   font-size: initial;
 }
