@@ -26,7 +26,7 @@ const Todo = ({item, update, remove, toggleComplete}) => {
   const handleClick = evt => {
     remove(evt.target.id);
   };
-
+// This is Todo Component
   return (  
     <>
       {isEditing ? (
